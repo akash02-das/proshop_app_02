@@ -2,6 +2,8 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
+![proshop_screenshot](https://user-images.githubusercontent.com/62454886/112055480-1ab45500-8b81-11eb-9960-f7c2a142af25.png)
+
 ## Features
 
 - Full featured shopping cart
